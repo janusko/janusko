@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Python, vue.js, socket.io**
 
-- 📫 Email me at **januskocoding@gmail.com**
+- 📧 Email me at **januskocoding@gmail.com**
 
-- 📄 View my resume <a href="https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing](https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing">here</a>
+- 📝 View my resume <a href="https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing](https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing">here</a>
 
-- ⚡ Fun fact **I've filled over 7,000 bourbon barrels with beer.**
+- 🔸 Fun fact **I've filled over 7,000 bourbon barrels with beer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

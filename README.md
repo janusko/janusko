@@ -6,7 +6,7 @@
 </p>
 
 <div align="left">
-• 🌱 I’m currently learning Python, vue.js, socket.io
+• 🌱 I’m currently focusing on React.
     <p></p>
 • 📧 Email me at januskocoding@gmail.com
     <p></p>

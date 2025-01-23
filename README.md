@@ -8,8 +8,8 @@
 <div align="left">
     <ul>
         <li>🌱 I’m currently focusing on React</li>
-        <li>📧 <a href="mailto:januskocoding@gmail.com"> Email me at januskocoding@gmail.com</li>
-        <li>📝 View my resume <a href="https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing](https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing">here</a></li>
+        <li>📧 <a href="mailto:januskocoding@gmail.com">Email me</a> at januskocoding@gmail.com</li>
+        <li>📝 View my <a href="https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing](https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing">resume</a></li>
         <li>🔸 Fun fact I've filled over 7,000 bourbon barrels with beer</li>
     </ul>
 </div>

@@ -6,39 +6,14 @@
 </p>
 
 <div align="left">
-• 🌱 I’m currently focusing on React.
-    <p></p>
-• 📧 Email me at januskocoding@gmail.com
-    <p></p>
-• 📝 View my resume <a href="https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing](https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing">here</a>
-    <p></p>
-• 🔸 Fun fact I've filled over 7,000 bourbon barrels with beer.
+    <ul>
+        <li>🌱 I’m currently focusing on React</li>
+        <li>📧 <a href="mailto:januskocoding@gmail.com"> Email me at januskocoding@gmail.com</li>
+        <li>📝 View my resume <a href="https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing](https://docs.google.com/document/d/1s3r4R0io7De23Xdzxi2r_8CcdIeCddXRc33kxdkL40Y/edit?usp=sharing">here</a></li>
+        <li>🔸 Fun fact I've filled over 7,000 bourbon barrels with beer</li>
+    </ul>
 </div>
-<p></p>
-<table>
-    <tr>
-       <th>Languages Learned</th>
-        <th>Projects</th>
-        <th>Other Interests</th>
-    </tr>
-    <tb>
-        <tr>
-            <td>JavaScript [MERN: MongoDB, Express.js, React.js, Node.js]</td>
-            <td>Escape [Airbnb-inspired Full CRUD, MERN]</td>
-            <td>Traveling</td>
-        </tr>
-        <tr>
-            <td>Java</td>
-            <td>FLOW [Water Consumption Visualization, Java]</td>
-            <td>Cycling</td>
-        </tr>
-        <tr>
-            <td>Python</td>
-            <td>Under the Barbell [Physical Therapy App, Python]</td>
-            <td>Yoga</td>
-        </tr>
-    </table>
-        
+
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
